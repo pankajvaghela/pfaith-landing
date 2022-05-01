@@ -13,8 +13,18 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>PFaith | Landing Page</title>
-        <link rel="icon" href="/favicon.ico" />
+        <title>PFaith | make your IT Career</title>
+        <meta name="title" content="PFaith | make your IT Career"/>
+        <meta name="description" content="Get your dream job in IT by training and working with us."/>
+        <meta name="tags" content="PFaith, IT, DevOps, SRE, Web Development, Hire, Jobs"/>
+
+        <meta property="og:title" content="PFaith | make your IT Career" />
+        <meta property="og:description" content="Get your dream job in IT by training and working with us." />
+        <meta property="og:image" content="/pfaith_logo_white.jpg" />
+
+
+        <link rel="icon" href="/pfaith_logo_white.jpg" />
+        <link rel="preload" href="/pfaith_logo_light.png" as="image" />
       </Head>
 
       <Hero />
