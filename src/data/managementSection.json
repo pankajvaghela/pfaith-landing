@@ -1,0 +1,10 @@
+{
+    "blocks": [
+        {
+            "id": 1,
+            "title": "What does PFaith do?",
+            "description": "Helping you get into IT industry, by giving you professional training and experience. Our courses are highly curated to make you a professional software engineer. We have projects from real world just for you.",
+            "image": "/management/colab.svg"
+        }
+    ]
+}

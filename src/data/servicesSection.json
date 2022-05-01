@@ -1,0 +1,23 @@
+{
+    "title": "Courses we offer",
+    "blocks": [
+        {
+            "id": 1,
+            "title": "DevOps",
+            "description": "Learn about various DevOps tools, including Git, Jenkins, Docker, Ansible, Terraform, Kubernetes, Prometheus, and Grafana",
+            "icon": "/services/devops.svg"
+        },
+        {
+            "id": 2,
+            "title": "SRE",
+            "description": "Learn about principles and practices that supports software delivery - keeping production systems stable and still delivering new features at speed.",
+            "icon": "/services/sre.svg"
+        },
+        {
+            "id": 3,
+            "title": "Web Development",
+            "description": "Learn to create a complete e-commerce website using HTML, CSS, JavaScript, Node and SQL.",
+            "icon": "/services/web-dev.svg"
+        }
+    ]
+}
