@@ -3,6 +3,11 @@ import Link from 'next/link';
 import data from '../data/headerSection.json';
 
 const Header = () => {
+
+    const onContactUsClick = () => {
+        window.document.getElementById("footer")?.scrollIntoView({ behavior: "smooth" });
+    }
+
     return (
         <header>
             <div className="logo">
@@ -13,7 +18,7 @@ const Header = () => {
                 </Link>
             </div>
             <div className="btn-try">
-                <button >
+                <button onClick={onContactUsClick}>
                     Contact Us
                 </button>
             </div>

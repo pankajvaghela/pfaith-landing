@@ -86,11 +86,11 @@ header .btn-try button {
 
 .hero-section .content-hero .left-side p {
     width: 90%;
-    font-weight: bold;
+    /* font-weight: bold; */
     font-size: 20px;
     line-height: 35px;
     text-align: left;
-    color: #b1aaaa;
+    color: #454343;
     margin-top: 15px;
 }
 
