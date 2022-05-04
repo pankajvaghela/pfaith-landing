@@ -1,10 +1,10 @@
 {
-    "title": "We hire for",
+    "title": "We Hire For",
     "blocks": [
         {
             "id": 1,
             "title": "DevOps",
-            "description": "Learn about various DevOps tools, including Git, Jenkins, Docker, Ansible, Terraform, Kubernetes, Prometheus, and Grafana",
+            "description": "Learn about various DevOps tools. Including: Git, Jenkins, Docker, Ansible, Terraform, Kubernetes, Prometheus, and Grafana.",
             "icon": "/services/devops.svg"
         },
         {
@@ -16,7 +16,7 @@
         {
             "id": 3,
             "title": "Web Development",
-            "description": "Learn to create a complete e-commerce website using HTML, CSS, JavaScript, Node and SQL.",
+            "description": "Learn to create a complete e-commerce website using: HTML, CSS, JavaScript, Node and SQL.",
             "icon": "/services/web-dev.svg"
         }
     ]
